@@ -1,0 +1,27 @@
+{
+  "name": "docker-nodejs-hello-world",
+  "version": "1.0.0",
+  "description": "Learning docker with nodejs hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantsahu1987/docker-nodejs-hello-world.git"
+  },
+  "keywords": [
+    "express",
+    "docker"
+  ],
+  "author": "ssahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushantsahu1987/docker-nodejs-hello-world/issues"
+  },
+  "homepage": "https://github.com/sushantsahu1987/docker-nodejs-hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
